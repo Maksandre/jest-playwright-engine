@@ -1,0 +1,25 @@
+{
+  "name": "jest-playwright-engine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maksandre/jest-playwright-engine.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maksandre/jest-playwright-engine/issues"
+  },
+  "homepage": "https://github.com/Maksandre/jest-playwright-engine#readme",
+  "devDependencies": {
+    "jest": "^26.1.0",
+    "jest-playwright-preset": "^1.2.1",
+    "playwright": "^1.2.1"
+  }
+}
